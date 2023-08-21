@@ -138,6 +138,7 @@ body {
 
 
 .flex-group {
+    padding: 0;
     text-transform: uppercase;
     font-weight: var(--fw-400);
     font-family: var(--ff-inter);
